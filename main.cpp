@@ -33,6 +33,6 @@ long long int multiply(long long int a,long long int b)
 }
 int main()
 {
-    cout << multiply(12345678948,12345678998);
+    cout << multiply(1234567898,1234567899);
     return 0;
 }
